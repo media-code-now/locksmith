@@ -739,7 +739,10 @@ ul {
   overflow: hidden;
   margin-bottom: 30px;
 }
-
+.feature img{
+  width:auto;
+  height: 50px;
+}
 /* line 24, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_blog.scss */
 .single-blog:hover {
   box-shadow: 0px 10px 20px 0px rgba(42, 34, 123, 0.1);
