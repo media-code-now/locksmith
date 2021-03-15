@@ -2356,6 +2356,7 @@ ul {
   background-repeat: no-repeat;
   background-size: content;
   background-position: center center;
+  background-attachment: fixed;
 }
 
 @media (max-width: 991px) {
@@ -2366,6 +2367,7 @@ ul {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    background-attachment: fixed;
   }
 }
 
@@ -2377,6 +2379,7 @@ ul {
     background-repeat: no-repeat;
     background-size: cover;
     background-position:  center center;
+    background-attachment: fixed;
   }
 }
 
