@@ -2355,7 +2355,7 @@ ul {
   background-image: url(../img/banner_img.png);
   background-repeat: no-repeat;
   background-size: content;
-  background-position: right top;
+  background-position: center center;
 }
 
 @media (max-width: 991px) {
